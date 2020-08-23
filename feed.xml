@@ -1,1 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://millie.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://millie.github.io//" rel="alternate" type="text/html" /><updated>2020-08-23T18:38:33+09:00</updated><id>https://millie.github.io//</id><title type="html">Millie</title><subtitle>Millie's Small Box.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://ardodulcis.github.io/millie//millie/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ardodulcis.github.io/millie//millie/" rel="alternate" type="text/html" /><updated>2020-08-23T18:57:56+09:00</updated><id>https://ardodulcis.github.io/millie//millie/</id><title type="html">Millie</title><subtitle>Millie's Small Box.</subtitle><entry><title type="html">Style Guide</title><link href="https://ardodulcis.github.io/millie//millie/2020/08/22/testpost/" rel="alternate" type="text/html" title="Style Guide" /><published>2020-08-22T23:34:27+09:00</published><updated>2020-08-22T23:34:27+09:00</updated><id>https://ardodulcis.github.io/millie//millie/2020/08/22/testpost</id><content type="html" xml:base="https://ardodulcis.github.io/millie//millie/2020/08/22/testpost/">&lt;p&gt;A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;headings-by-default&quot;&gt;Headings by default:&lt;/h3&gt;
+
+&lt;h1 id=&quot;h1-for-example&quot;&gt;H1 For example&lt;/h1&gt;
+&lt;h2 id=&quot;h2-for-example&quot;&gt;H2 For example&lt;/h2&gt;
+&lt;h3 id=&quot;h3-for-example&quot;&gt;H3 For example&lt;/h3&gt;
+&lt;h4 id=&quot;h4-for-example&quot;&gt;H4 For example&lt;/h4&gt;
+&lt;h5 id=&quot;h5-for-example&quot;&gt;H5 For example&lt;/h5&gt;
+&lt;h6 id=&quot;h6-for-example&quot;&gt;H6 For example&lt;/h6&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;gu&quot;&gt;## Heading first level
+&lt;/span&gt;
+&lt;span class=&quot;gu&quot;&gt;### Heading second level
+&lt;/span&gt;
+&lt;span class=&quot;gu&quot;&gt;#### Heading third level&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;h4 id=&quot;ordered-list-example&quot;&gt;Ordered list example:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Poutine drinking vinegar bitters.&lt;/li&gt;
+  &lt;li&gt;Coloring book distillery fanny pack.&lt;/li&gt;
+  &lt;li&gt;Venmo biodiesel gentrify enamel pin meditation.&lt;/li&gt;
+  &lt;li&gt;Jean shorts shaman listicle pickled portland.&lt;/li&gt;
+  &lt;li&gt;Salvia mumblecore brunch iPhone migas.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;unordered-list-example&quot;&gt;Unordered list example:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bitters semiotics vice thundercats synth.&lt;/li&gt;
+  &lt;li&gt;Literally cred narwhal bitters wayfarers.&lt;/li&gt;
+  &lt;li&gt;Kale chips chartreuse paleo tbh street art marfa.&lt;/li&gt;
+  &lt;li&gt;Mlkshk polaroid sriracha brooklyn.&lt;/li&gt;
+  &lt;li&gt;Pug you probably haven’t heard of them air plant man bun.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;p&quot;&gt;1.&lt;/span&gt; Order list item 1
+&lt;span class=&quot;p&quot;&gt;2.&lt;/span&gt; Order list item 1
+&lt;span class=&quot;p&quot;&gt;
+*&lt;/span&gt; Unordered list item 1
+&lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; Unordered list item 2&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;table&quot;&gt;Table&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;&lt;th&gt;Header 1&lt;/th&gt;&lt;th&gt;Header 2&lt;/th&gt;&lt;th&gt;Header 3&lt;/th&gt;&lt;th&gt;Header 4&lt;/th&gt;&lt;th&gt;Header 5&lt;/th&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Row:1 Cell:1&lt;/td&gt;&lt;td&gt;Row:1 Cell:2&lt;/td&gt;&lt;td&gt;Row:1 Cell:3&lt;/td&gt;&lt;td&gt;Row:1 Cell:4&lt;/td&gt;&lt;td&gt;Row:1 Cell:5&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Row:2 Cell:1&lt;/td&gt;&lt;td&gt;Row:2 Cell:2&lt;/td&gt;&lt;td&gt;Row:2 Cell:3&lt;/td&gt;&lt;td&gt;Row:2 Cell:4&lt;/td&gt;&lt;td&gt;Row:2 Cell:5&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Row:3 Cell:1&lt;/td&gt;&lt;td&gt;Row:3 Cell:2&lt;/td&gt;&lt;td&gt;Row:3 Cell:3&lt;/td&gt;&lt;td&gt;Row:3 Cell:4&lt;/td&gt;&lt;td&gt;Row:3 Cell:5&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Row:4 Cell:1&lt;/td&gt;&lt;td&gt;Row:4 Cell:2&lt;/td&gt;&lt;td&gt;Row:4 Cell:3&lt;/td&gt;&lt;td&gt;Row:4 Cell:4&lt;/td&gt;&lt;td&gt;Row:4 Cell:5&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Row:5 Cell:1&lt;/td&gt;&lt;td&gt;Row:5 Cell:2&lt;/td&gt;&lt;td&gt;Row:5 Cell:3&lt;/td&gt;&lt;td&gt;Row:5 Cell:4&lt;/td&gt;&lt;td&gt;Row:5 Cell:5&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Row:6 Cell:1&lt;/td&gt;&lt;td&gt;Row:6 Cell:2&lt;/td&gt;&lt;td&gt;Row:6 Cell:3&lt;/td&gt;&lt;td&gt;Row:6 Cell:4&lt;/td&gt;&lt;td&gt;Row:6 Cell:5&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;quotes&quot;&gt;Quotes&lt;/h3&gt;
+
+&lt;h4 id=&quot;a-quote-looks-like-this&quot;&gt;A quote looks like this:&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;syntax-highlighter&quot;&gt;Syntax Highlighter&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.top&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;click&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;html, body&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;animate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;slow&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;swing&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.top&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;top-active&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.top&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;top-active&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/millie/images/15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
+
+&lt;h4 id=&quot;youtube&quot;&gt;Youtube&lt;/h4&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/iWowJBRMtpc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="Music" /><category term="Shopping" /><category term="Guitar" /><summary type="html">A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland. Headings by default: H1 For example H2 For example H3 For example H4 For example H5 For example H6 For example ## Heading first level ### Heading second level #### Heading third level Lists Ordered list example: Poutine drinking vinegar bitters. Coloring book distillery fanny pack. Venmo biodiesel gentrify enamel pin meditation. Jean shorts shaman listicle pickled portland. Salvia mumblecore brunch iPhone migas. Unordered list example: Bitters semiotics vice thundercats synth. Literally cred narwhal bitters wayfarers. Kale chips chartreuse paleo tbh street art marfa. Mlkshk polaroid sriracha brooklyn. Pug you probably haven’t heard of them air plant man bun. 1. Order list item 1 2. Order list item 1 * Unordered list item 1 * Unordered list item 2 Table Header 1Header 2Header 3Header 4Header 5 Row:1 Cell:1Row:1 Cell:2Row:1 Cell:3Row:1 Cell:4Row:1 Cell:5 Row:2 Cell:1Row:2 Cell:2Row:2 Cell:3Row:2 Cell:4Row:2 Cell:5 Row:3 Cell:1Row:3 Cell:2Row:3 Cell:3Row:3 Cell:4Row:3 Cell:5 Row:4 Cell:1Row:4 Cell:2Row:4 Cell:3Row:4 Cell:4Row:4 Cell:5 Row:5 Cell:1Row:5 Cell:2Row:5 Cell:3Row:5 Cell:4Row:5 Cell:5 Row:6 Cell:1Row:6 Cell:2Row:6 Cell:3Row:6 Cell:4Row:6 Cell:5 Quotes A quote looks like this: Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain Syntax Highlighter $('.top').click(function () { $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing'); }); $(window).scroll(function () { if ($(this).scrollTop() &amp;gt; $(window).height()) { $('.top').addClass(&quot;top-active&quot;); } else { $('.top').removeClass(&quot;top-active&quot;); }; }); Images Video Youtube</summary></entry></feed>
