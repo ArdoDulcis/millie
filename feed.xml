@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/millie/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/millie/" rel="alternate" type="text/html" /><updated>2020-08-29T16:28:00+09:00</updated><id>http://localhost:4000/millie/</id><title type="html">Millie</title><subtitle>Millie Small Box.</subtitle><entry><title type="html">Style Guide</title><link href="http://localhost:4000/millie/2020/08/22/testpost/" rel="alternate" type="text/html" title="Style Guide" /><published>2020-08-22T23:34:27+09:00</published><updated>2020-08-22T23:34:27+09:00</updated><id>http://localhost:4000/millie/2020/08/22/testpost</id><content type="html" xml:base="http://localhost:4000/millie/2020/08/22/testpost/">&lt;p&gt;A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://ardodulcis.github.io/millie/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ardodulcis.github.io/millie/" rel="alternate" type="text/html" /><updated>2020-08-30T18:08:20+09:00</updated><id>https://ardodulcis.github.io/millie/</id><title type="html">Millie</title><subtitle>Millie Small Box.</subtitle><entry><title type="html">Style Guide</title><link href="https://ardodulcis.github.io/millie/2020/08/22/testpost/" rel="alternate" type="text/html" title="Style Guide" /><published>2020-08-22T23:34:27+09:00</published><updated>2020-08-22T23:34:27+09:00</updated><id>https://ardodulcis.github.io/millie/2020/08/22/testpost</id><content type="html" xml:base="https://ardodulcis.github.io/millie/2020/08/22/testpost/">&lt;p&gt;앞에 있을 경우에는?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;그냥 쓰면 우째되나요???&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -10,6 +18,13 @@
 &lt;h4 id=&quot;h4-for-example&quot;&gt;H4 For example&lt;/h4&gt;
 &lt;h5 id=&quot;h5-for-example&quot;&gt;H5 For example&lt;/h5&gt;
 &lt;h6 id=&quot;h6-for-example&quot;&gt;H6 For example&lt;/h6&gt;
+
+&lt;h1 id=&quot;h1-머릿말-한글폰트&quot;&gt;H1 머릿말 한글폰트&lt;/h1&gt;
+&lt;h2 id=&quot;h2-머릿말-한글폰트&quot;&gt;H2 머릿말 한글폰트&lt;/h2&gt;
+&lt;h3 id=&quot;h3-머릿말-한글폰트&quot;&gt;H3 머릿말 한글폰트&lt;/h3&gt;
+&lt;h4 id=&quot;h4-머릿말-한글폰트&quot;&gt;H4 머릿말 한글폰트&lt;/h4&gt;
+&lt;h5 id=&quot;h5-머릿말-한글폰트&quot;&gt;H5 머릿말 한글폰트&lt;/h5&gt;
+&lt;h6 id=&quot;h6-머릿말-한글폰트&quot;&gt;H6 머릿말 한글폰트&lt;/h6&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;gu&quot;&gt;## Heading first level
 &lt;/span&gt;
@@ -29,6 +44,18 @@
   &lt;li&gt;Venmo biodiesel gentrify enamel pin meditation.&lt;/li&gt;
   &lt;li&gt;Jean shorts shaman listicle pickled portland.&lt;/li&gt;
   &lt;li&gt;Salvia mumblecore brunch iPhone migas.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;리스트&quot;&gt;리스트&lt;/h3&gt;
+
+&lt;h4 id=&quot;리스트-예&quot;&gt;리스트 예&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;리스트1&lt;/li&gt;
+  &lt;li&gt;리스트2&lt;/li&gt;
+  &lt;li&gt;리스트3&lt;/li&gt;
+  &lt;li&gt;리스트4&lt;/li&gt;
+  &lt;li&gt;리스트5&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;unordered-list-example&quot;&gt;Unordered list example:&lt;/h4&gt;
@@ -73,6 +100,18 @@
 
 &lt;hr /&gt;
 
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;인용문&quot;&gt;인용문&lt;/h3&gt;
+
+&lt;h4 id=&quot;인용문-표시&quot;&gt;인용문 표시:&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;삶이란 무엇인가.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;h3 id=&quot;syntax-highlighter&quot;&gt;Syntax Highlighter&lt;/h3&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.top&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;click&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
@@ -98,4 +137,4 @@
 
 &lt;h4 id=&quot;youtube&quot;&gt;Youtube&lt;/h4&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/iWowJBRMtpc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="Music" /><category term="Shopping" /><category term="Guitar" /><summary type="html">A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland. Headings by default: H1 For example H2 For example H3 For example H4 For example H5 For example H6 For example ## Heading first level ### Heading second level #### Heading third level Lists Ordered list example: Poutine drinking vinegar bitters. Coloring book distillery fanny pack. Venmo biodiesel gentrify enamel pin meditation. Jean shorts shaman listicle pickled portland. Salvia mumblecore brunch iPhone migas. Unordered list example: Bitters semiotics vice thundercats synth. Literally cred narwhal bitters wayfarers. Kale chips chartreuse paleo tbh street art marfa. Mlkshk polaroid sriracha brooklyn. Pug you probably haven’t heard of them air plant man bun. 1. Order list item 1 2. Order list item 1 * Unordered list item 1 * Unordered list item 2 Table Header 1Header 2Header 3Header 4Header 5 Row:1 Cell:1Row:1 Cell:2Row:1 Cell:3Row:1 Cell:4Row:1 Cell:5 Row:2 Cell:1Row:2 Cell:2Row:2 Cell:3Row:2 Cell:4Row:2 Cell:5 Row:3 Cell:1Row:3 Cell:2Row:3 Cell:3Row:3 Cell:4Row:3 Cell:5 Row:4 Cell:1Row:4 Cell:2Row:4 Cell:3Row:4 Cell:4Row:4 Cell:5 Row:5 Cell:1Row:5 Cell:2Row:5 Cell:3Row:5 Cell:4Row:5 Cell:5 Row:6 Cell:1Row:6 Cell:2Row:6 Cell:3Row:6 Cell:4Row:6 Cell:5 Quotes A quote looks like this: Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain Syntax Highlighter $('.top').click(function () { $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing'); }); $(window).scroll(function () { if ($(this).scrollTop() &amp;gt; $(window).height()) { $('.top').addClass(&quot;top-active&quot;); } else { $('.top').removeClass(&quot;top-active&quot;); }; }); Images Video Youtube</summary></entry></feed>
+&lt;iframe src=&quot;https://www.youtube.com/embed/iWowJBRMtpc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="Music" /><category term="Shopping" /><category term="Guitar" /><summary type="html">앞에 있을 경우에는? A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland. 그냥 쓰면 우째되나요??? Headings by default: H1 For example H2 For example H3 For example H4 For example H5 For example H6 For example H1 머릿말 한글폰트 H2 머릿말 한글폰트 H3 머릿말 한글폰트 H4 머릿말 한글폰트 H5 머릿말 한글폰트 H6 머릿말 한글폰트 ## Heading first level ### Heading second level #### Heading third level Lists Ordered list example: Poutine drinking vinegar bitters. Coloring book distillery fanny pack. Venmo biodiesel gentrify enamel pin meditation. Jean shorts shaman listicle pickled portland. Salvia mumblecore brunch iPhone migas. 리스트 리스트 예 리스트1 리스트2 리스트3 리스트4 리스트5 Unordered list example: Bitters semiotics vice thundercats synth. Literally cred narwhal bitters wayfarers. Kale chips chartreuse paleo tbh street art marfa. Mlkshk polaroid sriracha brooklyn. Pug you probably haven’t heard of them air plant man bun. 1. Order list item 1 2. Order list item 1 * Unordered list item 1 * Unordered list item 2 Table Header 1Header 2Header 3Header 4Header 5 Row:1 Cell:1Row:1 Cell:2Row:1 Cell:3Row:1 Cell:4Row:1 Cell:5 Row:2 Cell:1Row:2 Cell:2Row:2 Cell:3Row:2 Cell:4Row:2 Cell:5 Row:3 Cell:1Row:3 Cell:2Row:3 Cell:3Row:3 Cell:4Row:3 Cell:5 Row:4 Cell:1Row:4 Cell:2Row:4 Cell:3Row:4 Cell:4Row:4 Cell:5 Row:5 Cell:1Row:5 Cell:2Row:5 Cell:3Row:5 Cell:4Row:5 Cell:5 Row:6 Cell:1Row:6 Cell:2Row:6 Cell:3Row:6 Cell:4Row:6 Cell:5 Quotes A quote looks like this: Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain 인용문 인용문 표시: 삶이란 무엇인가. Syntax Highlighter $('.top').click(function () { $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing'); }); $(window).scroll(function () { if ($(this).scrollTop() &amp;gt; $(window).height()) { $('.top').addClass(&quot;top-active&quot;); } else { $('.top').removeClass(&quot;top-active&quot;); }; }); Images Video Youtube</summary></entry></feed>
